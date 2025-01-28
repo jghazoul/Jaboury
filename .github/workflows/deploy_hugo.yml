@@ -30,5 +30,3 @@ jobs:
       with:
         publish_dir: ./public # This is the folder Hugo generates the site in
         github_token: ${{ secrets.GITHUB_TOKEN }} # Token to authenticate with GitHub
-
-
